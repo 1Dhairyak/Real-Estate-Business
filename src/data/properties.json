@@ -1,0 +1,162 @@
+[
+  {
+    "id": "p01",
+    "title": "Sunset Bay Villa",
+    "type": "Villa",
+    "category": "Buy",
+    "location": "Sunset Bay, Coastal City",
+    "style": "Modern Minimalist",
+    "price": 350000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2800,
+    "featured": true,
+    "description": "A timber-clad villa set back from the coastal road, with a double-height glass frontage that opens the living space onto a private lawn. Built for long mornings and longer dinners outside.",
+    "amenities": ["Private garden", "Double garage", "Underfloor heating", "Solar panels", "Home office"],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1200&q=80",
+      "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?w=1200&q=80"
+    ]
+  },
+  {
+    "id": "p02",
+    "title": "Northridge Cabin House",
+    "type": "House",
+    "category": "Buy",
+    "location": "Northridge, Hillside",
+    "style": "Scandinavian",
+    "price": 285000,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 2100,
+    "featured": true,
+    "description": "Pale timber and black steel trim give this hillside house a quiet, cabin-like presence. Full-height windows track the tree line from the kitchen through to the main bedroom.",
+    "amenities": ["Wood-burning stove", "Covered deck", "Mudroom", "EV charging point"],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607688969-a5bfcd646154?w=1200&q=80",
+      "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=1200&q=80"
+    ]
+  },
+  {
+    "id": "p03",
+    "title": "Riverside Row Apartment",
+    "type": "Apartment",
+    "category": "Rent",
+    "location": "Riverside, Sunset Road",
+    "style": "Contemporary",
+    "price": 1450,
+    "beds": 2,
+    "baths": 1,
+    "sqft": 950,
+    "featured": true,
+    "description": "A second-floor apartment along the river walk, with a corner balcony catching the evening light. Walking distance to the tram line and the weekend market.",
+    "amenities": ["Balcony", "In-unit laundry", "Bike storage", "Concierge"],
+    "images": [
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=1200&q=80",
+      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585152220-90363fe7e115?w=1200&q=80"
+    ]
+  },
+  {
+    "id": "p04",
+    "title": "Elmwood Family Home",
+    "type": "House",
+    "category": "Buy",
+    "location": "Elmwood, Suburban Row",
+    "style": "Classic",
+    "price": 410000,
+    "beds": 5,
+    "baths": 3,
+    "sqft": 3200,
+    "featured": false,
+    "description": "A five-bedroom family home on a tree-lined street, close to two well-rated schools. The kitchen extension opens directly onto a fenced garden built for children and dogs alike.",
+    "amenities": ["Fenced garden", "Attic conversion", "Double garage", "Utility room"],
+    "images": [
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=1200&q=80",
+      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=1200&q=80",
+      "https://images.unsplash.com/photo-1600566752734-2a0cd526d68b?w=1200&q=80"
+    ]
+  },
+  {
+    "id": "p05",
+    "title": "Harbor View Studio",
+    "type": "Studio",
+    "category": "Rent",
+    "location": "Old Harbor, Dockside",
+    "style": "Industrial",
+    "price": 980,
+    "beds": 1,
+    "baths": 1,
+    "sqft": 620,
+    "featured": false,
+    "description": "A converted dock-side studio with exposed brick and original steel beams, five minutes from the harbor front. Compact, bright, and ready to move into.",
+    "amenities": ["Exposed brick", "High ceilings", "Rooftop access"],
+    "images": [
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1200&q=80",
+      "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?w=1200&q=80",
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1200&q=80"
+    ]
+  },
+  {
+    "id": "p06",
+    "title": "Cedar Grove Bungalow",
+    "type": "House",
+    "category": "Buy",
+    "location": "Cedar Grove, Coastal City",
+    "style": "Modern Minimalist",
+    "price": 265000,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1750,
+    "featured": true,
+    "description": "A single-storey bungalow tucked behind a stand of cedars, with a courtyard that pulls light into every room. A first home built to last decades, not seasons.",
+    "amenities": ["Courtyard", "Skylights", "Carport", "Rainwater tank"],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154363-67eb9e2e2099?w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=1200&q=80",
+      "https://images.unsplash.com/photo-1600566752229-250ed79470f8?w=1200&q=80"
+    ]
+  },
+  {
+    "id": "p07",
+    "title": "Fairview Loft",
+    "type": "Apartment",
+    "category": "Rent",
+    "location": "Fairview, City Center",
+    "style": "Contemporary",
+    "price": 1650,
+    "beds": 2,
+    "baths": 2,
+    "sqft": 1100,
+    "featured": false,
+    "description": "A top-floor loft with a private roof terrace over the city center. Open-plan living, floor-to-ceiling glass on two sides, and a five-minute walk to the station.",
+    "amenities": ["Roof terrace", "Gym access", "Secure parking", "Smart thermostat"],
+    "images": [
+      "https://images.unsplash.com/photo-1600607687644-c7171b42498b?w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607688066-890987f19a02?w=1200&q=80",
+      "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?w=1200&q=80"
+    ]
+  },
+  {
+    "id": "p08",
+    "title": "Willowmere Estate",
+    "type": "Villa",
+    "category": "Buy",
+    "location": "Willowmere, Countryside",
+    "style": "Classic",
+    "price": 620000,
+    "beds": 6,
+    "baths": 4,
+    "sqft": 4400,
+    "featured": false,
+    "description": "A countryside estate set on two acres, with a converted barn used as a guest studio. Long gravel drive, mature orchard, and views that don't change with the seasons in any bad way.",
+    "amenities": ["Guest studio", "Orchard", "Stables", "Wine cellar"],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154154-0e5f3e8b8b3c?w=1200&q=80",
+      "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607688969-a5bfcd646154?w=1200&q=80"
+    ]
+  }
+]
